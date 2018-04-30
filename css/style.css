@@ -1,0 +1,53 @@
+main{
+  margin: 0 auto;
+  width: 400px;
+}
+
+header{
+  margin: 0 auto;
+  width: 400px;
+}
+
+header h1{
+  position: relative;
+  height: 30px;
+  width: 100px;
+  font-family: cursive;
+  font-size: 25px;
+  left: 140px;
+  text-align: center;
+}
+
+header nav{
+  position: relative;
+  margin: 30px;
+  left: 85px;
+}
+
+form div{
+  margin: 10px;
+}
+
+form div input{
+  position: relative;
+  left: 100px;
+}
+
+form div.static{
+  position: relative;
+  left: 130px;
+  font-family: cursive;
+  font-weight: strong;
+  font-size: 13px;
+}
+
+#submitted{
+  position: relative;
+  left: 150px;
+}
+
+body{
+  background: url("https://wall.alphacoders.com/big.php?i=480421");
+}
+
+
